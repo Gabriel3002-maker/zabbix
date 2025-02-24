@@ -41,5 +41,5 @@ http://localhost:8081
 
 Las credenciales predeterminadas son:
 
-Usuario: zabbix
+Usuario: Admin
 Contraseña: zabbix
